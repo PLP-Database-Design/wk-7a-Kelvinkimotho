@@ -60,4 +60,19 @@ Task:
 - Write an SQL query to transform this table into **2NF** by removing partial dependencies. Ensure that each non-key column fully depends on the entire primary key.
 
 ---
+
+## 📷 My Solution (Screenshots)
+
+### 📂 1. Tables Created Successfully
+![Tables Created](screenshots/tables.png)
+
+### 📄 2. Tables Structure/Description
+![Tables Description](screenshots/table_description.png)
+
+### 🔎 3. Data Selected from All Tables
+![Select From Tables](screenshots/select.png)
+
+---
+
+---
 Good luck 🚀
